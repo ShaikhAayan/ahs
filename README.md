@@ -1,8 +1,6 @@
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
-<img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
-
 <div align="center">
 
 #  **🏝️ Smart AI Resume Analyzer 🏝️**  
@@ -586,7 +584,7 @@ Join the mission! Here's how:
 
 ## 📄 **License**  
 
-This project is licensed under the [MIT License](https://github.com/ShaikhAayanii/resume-analyzer-ai/blob/main/LICENSE).  
+This project is licensed under the [MIT License]
 
 
 ## 🌟 **GitHub Repo**  
@@ -595,8 +593,8 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/ShaikhAayanii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by [aayan](https://github.com/ShaikhAayanii)._**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:aayan.tcsc.com). 📧
 
 
 ## 📰 News  
@@ -609,10 +607,5 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 If you appreciate this repository and want to show your support, you can do so through these platforms:
 
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
