@@ -19,26 +19,7 @@
 <table align="center">
     <thead align="center">
         <tr>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>📏 Repo Size</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Closed PRs</b></td>
-            <td><b>📈 Contributors</b></td>
-            <td><b>❤ Open Source</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source"/></td>
+          =
         </tr>
     </tbody>
 </table>
@@ -53,11 +34,8 @@
   <p>
     <small align="justify">
       Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
-     </small>
+      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
   </small>
 </div><br/><br/>
 </div>  
